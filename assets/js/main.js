@@ -15,6 +15,13 @@
     }
   }
 
+  // document.querySelector('video.active').play();
+
+//   var videos = document.querySelectorAll('video.item');
+// for(var i = 0; i < videos.length; i++) {
+//     videos[i].pause();
+// }
+
   /**
    * Easy event listener function
    */
